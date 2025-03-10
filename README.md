@@ -1,0 +1,1 @@
+# QRcode_Generator_Android_App
